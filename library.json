@@ -1,0 +1,30 @@
+[
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen ",
+        "year": 1813,
+        "genre": " Romance novel, Satire, Literary fiction, Novel of manners",
+        "read": true
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "year": 1861,
+        "genre": "Novel, Bildungsroman, Graphic novel, Gothic fiction, Fictional Autobiography",
+        "read": false
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "year": 1884,
+        "genre": "Novel, Satire, Humor, Adventure fiction \u00b7 ",
+        "read": true
+    },
+    {
+        "title": "The God of Small Things",
+        "author": "Arundhati Roy",
+        "year": 1997,
+        "genre": " Novel, Domestic Fiction, Psychological Fiction",
+        "read": false
+    }
+]
